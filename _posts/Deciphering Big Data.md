@@ -5,17 +5,17 @@ This is a record of the work and tasks completed during this unit.
 
 ## Task 1: Discussion
 
-Our first task was to participate in the discussion on the topic of the internet of things (IOT). Below is a screenshot of
+Our first task was to participate in the discussion on the topic of the Internet of things (IoT). Below is a screenshot of
 my contributions to this discussion:
 
 As you can see, some interesting point were raised and discussed in this task.
 
-## Task 2: Webscraping
+## Task 2: Web scraping
 
-The next task, was to write a webscraping script in Python, using the key word "Data Scientist" and to then parse the data 
+The next task was to write a web scraping script in Python, using the keyword "Data Scientist" and then parse the data 
 into an XML or JSON file.
 
-The results of this task are shown below:
+The resulting JSON file contents of this task are shown below:
 
     {"title": "Page navigation"},
     {"title": "On this profile"},
@@ -69,11 +69,11 @@ This stops random access and lets the supermarket track who's checking what. The
 securely and used over secure connections (HTTPS).
 
 Checking Shopping Lists (Input Validation): The API checks every request (like a shopping list) to make 
-sure it's valid and doesn't contain anything suspicious (like code trying to break the system).
+sure it's valid and contains nothing suspicious (like code trying to break the system).
 
 Limiting Shopping Trips (Rate Limiting/Output Filtering): The API limits how often someone can check 
 prices/availability to prevent overload and bulk downloading of all product data (like aggressive price scraping 
-by competitors). It also only sends back the necessary information (no secret internal data).
+by competitors). It also only sends the necessary information (no secret internal data).
 
 Secure Checkout (HTTPS): All communication between apps/systems and the API uses HTTPS, which is like a 
 secure checkout process that scrambles the data.
@@ -93,4 +93,4 @@ Keep their "shopper card" (API key) secret.
 Use secure connections (HTTPS).
 Handle product information (JSON) correctly.
 
-
+Above is a list of all the tasks that were explicitly requested to be included in the e-portfolio for this module.
