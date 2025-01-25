@@ -53,7 +53,8 @@ This post stimulated some interesting discussions and point raised by my peers.
 ## Task 2: Web scraping
 
 The next task was to write a web scraping script in Python, using the keyword "Data Scientist" and then parse the data 
-into an XML or JSON file.
+into an XML or JSON file. I found this task to be extremely challenging, as most large organisations have some form of
+protection against large scale web scraping, in order to protect their information from their competitors.
 
 The resulting JSON file contents of this task are shown below:
 
