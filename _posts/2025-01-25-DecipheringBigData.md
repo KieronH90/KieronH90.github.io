@@ -66,6 +66,7 @@ And finally, in 3rd normal form:
 In this task, we were asked to create a relational database for the data provided in the previous
 task. The outcome is shown below:
 
+![My logo](/assets/images/Databuildtask.png)
 
 ## Task 5: API security
 
