@@ -10,7 +10,7 @@ my contributions to this discussion:
 
 As you can see, some interesting point were raised and discussed in this task.
 
-![My Logo](Discussionscreenshot.png)
+![My Logo](KieronH90.github.io/Discussionscreenshot.png) 
 
 ## Task 2: Web scraping
 
