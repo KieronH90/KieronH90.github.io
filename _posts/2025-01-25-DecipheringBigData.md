@@ -8,7 +8,8 @@ This is a record of the work and tasks completed during this unit.
 Our first task was to participate in the discussion on the topic of the Internet of things (IoT). Below is a screenshot of
 my contributions to this discussion:
 
-As you can see, some interesting point were raised and discussed in this task.
+As you can see, some interesting point were raised and discussed in this task. (If you're struggling to read the text, please
+zoom your browser)
 
 ![My Logo](/assets/images/discussionscreenshot.png) 
 
@@ -47,8 +48,10 @@ The resulting JSON file contents of this task are shown below:
 
 ## Task 3: Normalisation of data
 
-We were then asked to complete a normalisation task, of which the results are attached below:
+We were then asked to complete a normalisation task, of which the results are attached below.
 
+Here is the data in 1st normal form:
+![My image](/assets/images/1stNormalform.png) 
 
 ## Task 4: Data build task
 
