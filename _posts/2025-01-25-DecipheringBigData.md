@@ -10,6 +10,8 @@ my contributions to this discussion:
 
 As you can see, some interesting point were raised and discussed in this task.
 
+
+
 ## Task 2: Web scraping
 
 The next task was to write a web scraping script in Python, using the keyword "Data Scientist" and then parse the data 
