@@ -11,7 +11,7 @@ my contributions to this discussion:
 As you can see, some interesting point were raised and discussed in this task. (If you're struggling to read the text, please
 zoom your browser)
 
-![My Logo](/assets/images/discussionscreenshot.png) 
+![My Logo](/assets/images/discussionscreenshot.png)
 
 ## Task 2: Web scraping
 
@@ -54,7 +54,7 @@ Here is the data in 1st normal form:
 ![My logo](/assets/images/1stNormalform.png) 
 
 And in 2nd normal form:
-![My logo](assets/images/2ndnormalform.png)
+![My logo](assets/images/2ndnormalform.png) 
 
 And finally, in 3rd normal form:
 ![My logo](assets/images/3rdnormalform.png) 
