@@ -68,6 +68,9 @@ task. The outcome is shown below:
 
 ![My logo](/assets/images/Databuildtask.png)
 
+![My logo](/assets/images/databuildtask2.png)
+
+
 ## Task 5: API security
 
 In this task, we were asked to discuss the security requirements of an API of our choice. Below are 
