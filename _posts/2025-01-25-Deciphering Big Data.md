@@ -111,4 +111,4 @@ Keep their "shopper card" (API key) secret.
 Use secure connections (HTTPS).
 Handle product information (JSON) correctly.
 
-Above is a list of all the tasks that were explicitly requested to be included in the e-portfolio for this module.
+I have found this module interesting and engaging. I look forward to the next module.
