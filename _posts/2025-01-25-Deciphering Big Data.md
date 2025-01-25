@@ -1,7 +1,8 @@
 # Deciphering Big Data
 ## A record of my work
 
-This is a record of the work and tasks completed during this unit.
+This is a record of the work and tasks completed during this unit. Below are all the tasks, in which I received explicit instructions to
+include the outcome on my e-portfolio
 
 ## Task 1: Discussion
 
