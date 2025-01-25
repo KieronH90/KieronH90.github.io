@@ -54,9 +54,11 @@ Here is the data in 1st normal form:
 ![My logo](/assets/images/1stNormalform.png) 
 
 And in 2nd normal form:
+
 ![My logo](/assets/images/2ndnormalform.png) 
 
 And finally, in 3rd normal form:
+
 ![My logo](/assets/images/3rdnormalform.png) 
 
 ## Task 4: Data build task
