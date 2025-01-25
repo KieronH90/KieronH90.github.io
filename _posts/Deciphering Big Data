@@ -14,3 +14,87 @@ As you can see, some interesting point were raised and discussed in this task.
 
 The next task, was to write a webscraping script in Python, using the key word "Data Scientist" and to then parse the data 
 into an XML or JSON file.
+
+The results of this task are shown below:
+
+
+    {
+        "title": "Page navigation"
+    },
+    {
+        "title": "On this profile"
+    },
+    {
+        "title": "On this profile"
+    },
+    {
+        "title": "Data scientist"
+    },
+    {
+        "title": "On this profile"
+    },
+    {
+        "title": "Types of data scientist"
+    },
+    {
+        "title": "Responsibilities"
+    },
+    {
+        "title": "Related case studies"
+    },
+    {
+        "title": "Salary"
+    },
+    {
+        "title": "Working hours"
+    },
+    {
+        "title": "What to expect"
+    },
+    {
+        "title": "Qualifications"
+    },
+    {
+        "title": "Skills"
+    },
+    {
+        "title": "Work experience"
+    },
+    {
+        "title": "Advertisement"
+    },
+    {
+        "title": "Employers"
+    },
+    {
+        "title": "Professional development"
+    },
+    {
+        "title": "Career prospects"
+    },
+    {
+        "title": "Alternative careers"
+    },
+    {
+        "title": "How would you rate this page?"
+    },
+    {
+        "title": "Related jobs and courses"
+    },
+    {
+        "title": ""
+    },
+    {
+        "title": "Promote job vacancies, courses or events"
+    },
+    {
+        "title": "Company information"
+    },
+    {
+        "title": "Company information"
+    }
+
+## Task 3: Normalisation of data
+
+We were then asked to complete a normalisation task, of which the results are attached below:
+
