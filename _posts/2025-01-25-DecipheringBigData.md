@@ -51,7 +51,7 @@ The resulting JSON file contents of this task are shown below:
 We were then asked to complete a normalisation task, of which the results are attached below.
 
 Here is the data in 1st normal form:
-![My image](/assets/images/1stNormalform.png) 
+![My logo](/assets/images/1stNormalform.png) 
 
 ## Task 4: Data build task
 
