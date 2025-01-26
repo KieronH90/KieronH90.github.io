@@ -48,7 +48,28 @@ Davenport, T and Dyche, J (2013)  Big Data in Big Companies. Available at: https
 
 Zoiner, T (No date) Big data architectures. Available at: https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures (Accessed: 29/10/24)
 
-This post stimulated some interesting discussions and point raised by my peers.
+This post stimulated some interesting discussions and point raised by my peers, as shown below:
+
+In reply to Kieron Hamilton
+Peer Respons
+by Opeyemi Adeniran - Friday, 8 November 2024, 8:54 PM
+Hi Kieron,
+
+Your analysis of the computing architectures of the Internet of Things (IoT), especially the Lambda architecture, is enlightening. The distinction between hot and cold paths clearly illustrates how different data types require different processing approaches due to their immediacy and accuracy requirements.
+
+To improve the efficiency and responsiveness of IoT systems, especially in critical applications such as weather detection, integrating edge computing can be beneficial. For time-sensitive data, edge computing reduces latency and bandwidth consumption by processing data closer to its source. For weather monitoring, for example, edge devices can analyze data locally to provide immediate warning of severe conditions, while less urgent data can be sent to the cloud for comprehensive analysis. This approach not only speeds up response times but also reduces the processing load on central systems (Chen et al., 2023).
+
+Regarding the ethical implications of big data, it's essential to address privacy concerns inherent in IoT deployments. If the massive volume of data gathered by IoT devices is not adequately managed, it may be misused or subject to unauthorized access. If not handled appropriately, the enormous volume of data gathered by IoT devices may be misused or subject to illegal access. Furthermore, getting users’ informed consent and maintaining transparency in data collection procedures can help reduce the ethical risks connected to big data analytics (Ziegeldorf et al. 2014).
+
+References
+
+Chen, Y., Hayawi, K., He, J., Song, H., and Wang, J. (2023) ‘Impact and challenges of intelligent IoT in meteorological science’, IEEE Internet of Things Magazine, 6(2), pp. 58-63. doi: 10.1109/IOTM.001.2300055.
+
+Ziegeldorf, J.H., Morchon, O.G. and Wehrle, K. (2014) ‘Privacy in the Internet of Things: threats and challenges’, Security and Communication Networks, 7, pp. 2728-2742. doi: 10.1002/sec.795.
+
+### Task summary
+
+This task taught me how to identify and address common data-wrangling challenges, including security risks, limitations, and opportunities. I also gained experience in critically analyzing data wrangling problems and selecting suitable methods, tools, and techniques—covering preparation, cleaning, exploration, creation, optimization, and evaluation—to effectively work with big data.
 
 ## Task 2: Web scraping
 
