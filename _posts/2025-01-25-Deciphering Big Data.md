@@ -1,21 +1,13 @@
 # Deciphering Big Data
-## A record of my work
-
-This is a record of the work and tasks completed during this unit. Below are all the tasks, in which I received explicit instructions to
-include the outcome on my e-portfolio
 
 ## Task 1: Discussion
 
-Our first task was to participate in the discussion on the topic of the Internet of things (IoT). Below is a screenshot of
-my contributions to this discussion:
+Our first task was to participate in the discussion on the topic of the Internet of things (IoT).
 
 As you can see, some interesting point were raised and discussed in this task. 
 
 First is my initial post:
 
-Initial post
-by Kieron Hamilton - Tuesday, 29 October 2024, 3:30 PM
-Number of replies: 2
 Initially, we must first address the question "What is the IOT?". Berte (2018) defines it as the "next chapter in the evolution of the Internet where computing devices embedded in everyday objects are able to send and receive data themselves." Essentially, saying that the IOT is the collective term for any device which connects to the internet, and has the capability to collect, store, process or send data. 
 
 The primary opportunity for this scale of data collection is the wealth of data available to process and analyse. This allows organisations to better plan for the application of resources, whether those resources be financial, logistical or personnel. Davenport and Dyche(2013), say that this application of data can be used to reduce costs and overheads for organisations. 
@@ -48,11 +40,8 @@ Davenport, T and Dyche, J (2013)  Big Data in Big Companies. Available at: https
 
 Zoiner, T (No date) Big data architectures. Available at: https://learn.microsoft.com/en-us/azure/architecture/databases/guide/big-data-architectures (Accessed: 29/10/24)
 
-This post stimulated some interesting discussions and point raised by my peers, as shown below:
+This post stimulated some discussion, as shown below:
 
-In reply to Kieron Hamilton
-Peer Respons
-by Opeyemi Adeniran - Friday, 8 November 2024, 8:54 PM
 Hi Kieron,
 
 Your analysis of the computing architectures of the Internet of Things (IoT), especially the Lambda architecture, is enlightening. The distinction between hot and cold paths clearly illustrates how different data types require different processing approaches due to their immediacy and accuracy requirements.
@@ -161,10 +150,6 @@ This learning experience provided comprehensive training in data handling, probl
 
 In this task, we were asked to participate in a collaborative discussion, comparing GDPR with the UK's ICO. My initial post is shown below:
 
-
-Initial post
-by Kieron Hamilton - Sunday, 26 January 2025, 9:37 PM
-Number of replies: 0
 In this post, I'm diving into how the GDPR's rules about securing personal data compare to what the ICO (Information Commissioner's Office) says here in the UK. Both are all about protecting people's privacy by making sure data is handled securely, but there are some interesting nuances.
 
 The GDPR, in Article 32 ("Security of processing"), sets a general standard: organizations need to use "appropriate technical and organisational measures" to keep data safe from unauthorized access, loss, damage, etc. (General Data Protection Regulation (EU) 2016/679, Art. 32). What I found interesting is that it doesn't specify exactly what those measures should be. It's more about taking a risk-based approach, meaning you have to think about the type of data you're handling, why you're handling it, and what the potential risks are to people's privacy. This makes sense because a small local shop won't need the same level of security as a huge hospital with sensitive medical records.
@@ -211,12 +196,9 @@ Secure Error Handling: Generic error responses prevent information leakage. Deta
 
 JSON and SQL Security: JWTs, JSON schema validation, parameterized queries, and least privilege database access prevent data tampering and injection vulnerabilities.
 
-On the Python client-side, I emphasized secure refresh token storage, HTTPS usage with the requests library, and secure JSON handling.
-
 
 ### Task 7 Summary
 
-This project directly addressed learning outcomes by managing security risks in data wrangling, analyzing secure data sharing challenges, and determining appropriate security methodologies (OAuth 2.0, input validation, rate limiting, HTTPS, secure data handling). This individual work enhanced my understanding of real-world system design and security.
+This project directly addressed learning outcomes by managing security risks in data wrangling, analyzing secure data sharing challenges, and determining appropriate security methodologies. This individual work enhanced my understanding of real-world system design and security.
 
-# Final word
-I have found this module interesting and engaging. I look forward to the next module.
+
