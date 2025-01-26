@@ -153,41 +153,30 @@ This learning experience provided comprehensive training in data handling, probl
 
 ## Task 6: API security
 
-In this task, we were asked to discuss the security requirements of an API of our choice. Below are 
-my thoughts on the subject:
+For this project, I evaluated the security requirements of a "Supermarket Loyalty Scheme API," designed to manage sensitive customer data and interact with external applications via JSON and a backend SQL database. My focus was mitigating risks related to unauthorized access, data breaches, and insecure communication.
 
-Here's a brief security plan for a "Supermarket Product API" – imagine this API lets apps and other 
-systems access information about products in a supermarket (like prices, availability, etc.).
+My proposed security measures include:
 
-Supermarket Product API: Quick Security Plan
+Robust Authentication (OAuth 2.0): Implementing OAuth 2.0 provides secure authorization for third-party applications, using access tokens, secure storage and transmission (HTTPS), token management, and role-based access control.
 
-Secret Shopper Cards (API Keys): Every app/system using the API gets a unique "shopper card" (API key). 
-This stops random access and lets the supermarket track who's checking what. These cards are stored 
-securely and used over secure connections (HTTPS).
+Comprehensive Input Validation: Rigorous input validation prevents injection attacks and handles invalid input.
 
-Checking Shopping Lists (Input Validation): The API checks every request (like a shopping list) to make 
-sure it's valid and contains nothing suspicious (like code trying to break the system).
+Data Minimization and Output Filtering: API responses only include necessary data, minimizing potential data exposure.
 
-Limiting Shopping Trips (Rate Limiting/Output Filtering): The API limits how often someone can check 
-prices/availability to prevent overload and bulk downloading of all product data (like aggressive price scraping 
-by competitors). It also only sends the necessary information (no secret internal data).
+Rate Limiting and Abuse Prevention: Rate limiting and account lockout mechanisms mitigate brute-force attacks, scraping, and DoS attempts.
 
-Secure Checkout (HTTPS): All communication between apps/systems and the API uses HTTPS, which is like a 
-secure checkout process that scrambles the data.
+Secure Communication (HTTPS): All communication uses HTTPS with strong TLS configurations.
 
-Handling Spills Carefully (Error Handling): If something goes wrong, the API sends a simple error message 
-that doesn't reveal any details about the supermarket's internal systems.
+Secure Error Handling: Generic error responses prevent information leakage. Detailed server-side logging supports debugging and auditing.
 
-Checking the Groceries (JSON Validation): If the API receives data in JSON format (like updated product info), 
-it checks that the data is correctly formatted.
+JSON and SQL Security: JWTs, JSON schema validation, parameterized queries, and least privilege database access prevent data tampering and injection vulnerabilities.
 
-Protecting the Stockroom (SQL Security - if a database is used): If the API uses a database to store product info, 
-it uses special commands to prevent anyone from tampering with the data. The API's access to the database is 
-limited to only what it needs to do.
+On the Python client-side, I emphasized secure refresh token storage, HTTPS usage with the requests library, and secure JSON handling.
 
-What Apps/Systems Need to Do:
-Keep their "shopper card" (API key) secret.
-Use secure connections (HTTPS).
-Handle product information (JSON) correctly.
 
+### Task 6 Summary
+
+This project directly addressed learning outcomes by managing security risks in data wrangling, analyzing secure data sharing challenges, and determining appropriate security methodologies (OAuth 2.0, input validation, rate limiting, HTTPS, secure data handling). This individual work enhanced my understanding of real-world system design and security.
+
+# Final word
 I have found this module interesting and engaging. I look forward to the next module.
