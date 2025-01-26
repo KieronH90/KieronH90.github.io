@@ -67,7 +67,7 @@ Chen, Y., Hayawi, K., He, J., Song, H., and Wang, J. (2023) ‘Impact and challe
 
 Ziegeldorf, J.H., Morchon, O.G. and Wehrle, K. (2014) ‘Privacy in the Internet of Things: threats and challenges’, Security and Communication Networks, 7, pp. 2728-2742. doi: 10.1002/sec.795.
 
-### Task summary
+### Task 1 summary
 
 This task taught me how to identify and address common data-wrangling challenges, including security risks, limitations, and opportunities. I also gained experience in critically analyzing data wrangling problems and selecting suitable methods, tools, and techniques—covering preparation, cleaning, exploration, creation, optimization, and evaluation—to effectively work with big data.
 
@@ -105,7 +105,21 @@ The resulting JSON file contents of this task are shown below:
     {"title": "Company information"},
     {"title": "Company information"}
 
-## Task 3: Normalisation of data
+### Task 2 Summary
+
+Through this task, I developed skills in identifying and managing data-wrangling challenges, including security risks, limitations, and opportunities. I learned to critically analyze data-wrangling problems and select appropriate methodologies, tools, and techniques for preparing, cleaning, exploring, creating, optimizing, and evaluating big data. Additionally, I gained experience in systematically developing and applying teamwork skills within a virtual professional environment, adopting real-world perspectives on team roles and organization.
+
+## Task 3: Data pipeline test
+
+The third task was a test, related to the data management pipeline. The results are shown below:
+
+![My logo](/assets/images/test.png) 
+
+### Task 3 Summary
+
+This task allowed me to develop my knowledge and understanding of the data management pipeline.
+
+## Task 4: Normalisation of data
 
 We were then asked to complete a normalisation task, of which the results are attached below.
 
@@ -120,7 +134,11 @@ And finally, in 3rd normal form:
 
 ![My logo](/assets/images/3rdnormalform.png) 
 
-## Task 4: Data build task
+### Task 4 Summary
+
+Through this task, I honed my skills in analyzing data wrangling challenges and choosing effective methods for big data processing, from preparation to evaluation. I also learned to design, develop, and evaluate solutions for complex data problems in diverse environments, using appropriate programming paradigms. Additionally, I improved my ability to contribute effectively to virtual development teams, gaining practical insights into team roles and organization.
+
+## Task 5: Data build task
 
 In this task, we were asked to create a relational database for the data provided in the previous
 task. The outcome is shown below:
@@ -129,8 +147,11 @@ task. The outcome is shown below:
 
 ![My logo](/assets/images/databuildtask2.png)
 
+### Task 5 Summary
 
-## Task 5: API security
+This learning experience provided comprehensive training in data handling, problem-solving, and virtual teamwork. I gained proficiency in the complete data wrangling lifecycle, encompassing preparation, cleaning, exploration, creation, optimization, and evaluation of big data, including the selection of appropriate methodologies, tools, and techniques for each stage. Furthermore, I developed the ability to design, build, and test solutions for complex data processing challenges across diverse environments, applying relevant programming paradigms. Finally, I honed my skills as a virtual team member, gaining practical experience with real-world team roles, organization, and effective collaboration strategies.
+
+## Task 6: API security
 
 In this task, we were asked to discuss the security requirements of an API of our choice. Below are 
 my thoughts on the subject:
