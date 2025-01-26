@@ -70,3 +70,17 @@ This unit explored APIs and their importance in data exchange. While the theory 
 learning came from the project. Evaluating API security requirements and developing a mitigation strategy was a challenging but rewarding exercise 
 in collaborative problem-solving. It solidified my understanding of real-world API implementation issues.
 
+# Unit 11 reflection
+
+The main body of this week's work was spent completing the executive summary for our project in unit 6. This was an interesting task, that allowed
+me to use a lot of the skills that I already use in my daily work as a school teacher: taking complex, technical ideas and explaining them to 
+someone with less technical understanding. Exploring the benefits and drawbacks of the decisions we made on our previous project. This was overall,
+a very satisfying and rewarding task to complete.
+
+# Unit 12 reflection
+
+Much of this final week has been spent ensuring that both the e-portfolio and reflection tasks have been completed to a standard that I am
+happy to share with others publicly. I feel as though I have achieved that goal, and I am very happy with the work I have created and 
+submitted throughout the course of this module. 
+
+I am grateful for the skills I have learned and look forward to expanding upon them in the next module.
