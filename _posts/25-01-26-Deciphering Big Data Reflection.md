@@ -31,3 +31,18 @@ Understanding these factors and the pipeline's structure provided a solid founda
 transformation tasks, including the assessment within this unit.
 
 # Unit 5 reflection
+
+Unit 5's hands-on approach to data cleaning with Python was a steep learning curve. Working with the complex UNICEF data presented 
+numerous frustrating obstacles, particularly when trying to master web scraping and efficiently automate cleaning processes. 
+While grasping the intricacies of database representation and data models required significant effort and patience, the eventual 
+understanding of clear, focused automation made the struggle worthwhile.
+
+# Unit 6 reflection
+
+Unit 6 was probably the most enjoyable of the module so far. Being able to collaborate with my peers to create a piece of work was 
+fascinating and engaging. We worked well together, covering the gaps in one another's knowledge, to create what I felt was a well-structured 
+and coherent project. I felt that my biggest contributions were both academic, by sourcing research to support our efforts, and logistical 
+as my real-life experiences and past employments allowed for a different perspective on the task requirements.
+
+# Unit 7
+
