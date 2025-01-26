@@ -119,7 +119,13 @@ The third task was a test, related to the data management pipeline. The results 
 
 This task allowed me to develop my knowledge and understanding of the data management pipeline.
 
-## Task 4: Normalisation of data
+## Task 4: Cleaning data
+
+In this task, we were required to obtain and clean data from the UNICEF website. A snapshot of the work is shown below:
+
+![My logo](/assets/images/cleaneddata.png) 
+
+## Task 5: Normalisation of data
 
 We were then asked to complete a normalisation task, of which the results are attached below.
 
@@ -134,11 +140,11 @@ And finally, in 3rd normal form:
 
 ![My logo](/assets/images/3rdnormalform.png) 
 
-### Task 4 Summary
+### Task 5 Summary
 
 Through this task, I honed my skills in analyzing data wrangling challenges and choosing effective methods for big data processing, from preparation to evaluation. I also learned to design, develop, and evaluate solutions for complex data problems in diverse environments, using appropriate programming paradigms. Additionally, I improved my ability to contribute effectively to virtual development teams, gaining practical insights into team roles and organization.
 
-## Task 5: Data build task
+## Task 6: Data build task
 
 In this task, we were asked to create a relational database for the data provided in the previous
 task. The outcome is shown below:
@@ -147,11 +153,11 @@ task. The outcome is shown below:
 
 ![My logo](/assets/images/databuildtask2.png)
 
-### Task 5 Summary
+### Task 6 Summary
 
 This learning experience provided comprehensive training in data handling, problem-solving, and virtual teamwork. I gained proficiency in the complete data wrangling lifecycle, encompassing preparation, cleaning, exploration, creation, optimization, and evaluation of big data, including the selection of appropriate methodologies, tools, and techniques for each stage. Furthermore, I developed the ability to design, build, and test solutions for complex data processing challenges across diverse environments, applying relevant programming paradigms. Finally, I honed my skills as a virtual team member, gaining practical experience with real-world team roles, organization, and effective collaboration strategies.
 
-## Task 6: API security
+## Task 7: API security
 
 For this project, I evaluated the security requirements of a "Supermarket Loyalty Scheme API," designed to manage sensitive customer data and interact with external applications via JSON and a backend SQL database. My focus was mitigating risks related to unauthorized access, data breaches, and insecure communication.
 
@@ -174,7 +180,7 @@ JSON and SQL Security: JWTs, JSON schema validation, parameterized queries, and 
 On the Python client-side, I emphasized secure refresh token storage, HTTPS usage with the requests library, and secure JSON handling.
 
 
-### Task 6 Summary
+### Task 7 Summary
 
 This project directly addressed learning outcomes by managing security risks in data wrangling, analyzing secure data sharing challenges, and determining appropriate security methodologies (OAuth 2.0, input validation, rate limiting, HTTPS, secure data handling). This individual work enhanced my understanding of real-world system design and security.
 
