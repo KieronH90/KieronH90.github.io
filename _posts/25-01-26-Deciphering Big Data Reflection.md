@@ -52,5 +52,21 @@ their data and their structure after getting some hands-on experience working wi
 
 # Unit 8 reflection
 
+This discussion compared the GDPR's personal data security principle with the UK's ICO standards. Both frameworks prioritize data protection through 
+appropriate technical and organizational measures, emphasizing a risk-based approach. The GDPR provides a broad framework, while the ICO offers more 
+specific UK guidance. Both acknowledge exemptions for certain processing activities, such as law enforcement or anonymized research data. This 
+comparison highlighted the shared goal of secure data handling while recognizing the differing levels of specificity in each framework.
 
+# Unit 9 reflection
+
+This unit's deep dive into Database Management Systems (DBMS) felt initially overwhelming with the sheer variety of concepts—from relational 
+databases like SQL to NoSQL, data warehouses, and Hadoop. However, understanding the design principles and the strengths and limitations of each 
+system was incredibly valuable. Learning how database design relates to different programming styles was particularly insightful, making me feel 
+much more confident in handling large datasets.
+
+# Unit 10 reflection
+
+This unit explored APIs and their importance in data exchange. While the theory of data parsing and communication was interesting, the real 
+learning came from the project. Evaluating API security requirements and developing a mitigation strategy was a challenging but rewarding exercise 
+in collaborative problem-solving. It solidified my understanding of real-world API implementation issues.
 
