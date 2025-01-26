@@ -46,3 +46,11 @@ as my real-life experiences and past employments allowed for a different perspec
 
 # Unit 7
 
+This unit contained 2 interesting tasks. One on the normalisation of data for better use in databases, and the other to then build a relational 
+database using the data obtained in the normalisation task. I felt as though both of these tasks gave me a much more in-depth understanding of databases,
+their data and their structure after getting some hands-on experience working with them (however basic).
+
+# Unit 8 reflection
+
+
+
