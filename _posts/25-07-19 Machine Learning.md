@@ -46,7 +46,7 @@ Wallis, N. (2021) The Great Post Office Scandal: The fight to expose a multimill
 
 ## Task 2- Correlation and regression
 
-Through this task, I was asked to download and manipulate different datasets in Google Colab to explore the data. The first file to be explored was covariance_pearson_correlation.ipynb. In this file, I was able to achieve a variety of different outcomes, including:
+### Through this task, I was asked to download and manipulate different datasets in Google Colab to explore the data. The first file to be explored was covariance_pearson_correlation.ipynb. In this file, I was able to achieve a variety of different outcomes, including:
 
 ### Weakening the positive correlation
 This was achieved by increasing the random multiplier from "+10" to "+50" - data2 = data1 + (50 * randn(1000) + 50)
@@ -67,3 +67,37 @@ This was achieved by making data2 entirely independent of data1 - data2 = 20 * r
 ### Creating a perfect correlation
 This was achieved by removing the noise entirely, and making data2 depend completely on data1 - data2 = data1 + 50
 ![My logo](/assets/images/covarianceperfectpositivecorrelation.png)
+
+### The second file upon which I worked was linear_regression.ipynb. Below are some of the outputs I achieved:
+
+### Strengthening the Positive Linear Correlation
+This was achieved by adjusting y values to clearly increase with x.
+
+x = [5,7,8,7,2,17,2,9,4,11,12,9,6]
+y = [10,14,16,14,4,34,4,18,8,22,24,18,12] 
+
+![My logo](/assets/images/linearregstrongpositive.png)
+
+### Creating a Negative Correlation
+This was achieved by making y values consistently decrease as x values increase.
+
+x = [5,7,8,7,2,17,2,9,4,11,12,9,6]
+y = [90,80,75,80,95,30,95,70,85,60,55,65,80] 
+
+![My logo](/assets/images/linearregweaknegcorr.png)
+
+### Introducing an Outlier
+A single extreme data point was added to observe its influence on the regression line.
+
+x = [5,7,8,7,2,17,2,9,4,11,12,9,6,  20]
+y = [99,86,87,88,111,86,103,87,94,78,77,85,86, 200] 
+
+![My logo](/assets/images/linearregoutlier.png)
+
+### Creating a Non-Linear Relationship
+Data was set to follow a quadratic curve to demonstrate the limitations of a linear model.
+
+x = [1,2,3,4,5,6,7,8,9,10,11,12,13]
+y = [1,4,9,16,25,36,49,64,81,100,121,144,169] 
+
+![My logo](/assets/images/linearregnonlinear.png)
