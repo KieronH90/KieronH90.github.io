@@ -138,3 +138,9 @@ x = [-10, -8, -6, -4, -2, 0, 2, 4, 6, 8, 10]
 y = [100, 64, 36, 16, 4, 0, 4, 16, 36, 64, 100] 
 
 ![My logo](/assets/images/polynomialparabola.png)
+
+## Task 3 - The Jaccard Coefficient 
+In this task, I was asked to calculate various Jaccard coefficients using a provided dataset. You can see the outcomes below:
+
+![My logo](/assets/images/Jaccard.png) 
+
