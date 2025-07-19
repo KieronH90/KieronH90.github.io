@@ -43,3 +43,14 @@ BCI (2025) Cyber resilience in IT & OT: The foundation for Industry 5.0 and crit
 Lim, K.S., Lee, J.S. and Kim, J.C. (2023) 'Human-centered artificial intelligence in healthcare: A review', Journal of Medical Systems, 47(1), p. 2.
 
 Wallis, N. (2021) The Great Post Office Scandal: The fight to expose a multimillion pound IT disaster which put innocent people in jail. London: Bath Publishing Ltd.
+
+## Task 2- Correlation and regression
+
+Through this task, I was asked to download and manipulate different datasets in Google Colab to exmplore the data. The first file to be explored was covariance_pearson_correlation.ipynb. In this file, I was able to acheive a variety of different outcomes, including:
+### Weakening the positive correlation
+This was achieved by increasing the random multiplier from "+10" to "+50" - data2 = data1 + (50 * randn(1000) + 50)
+![My logo](/assets/images/covarianceweakerpositive.png)
+
+### Weakening the positive correlation even further
+This was achieved by increasing the random multiplier from "*50" to "*200" - data2 = data1 + (200 * randn(1000) + 50)
+![My logo](/assets/images/covarianceevenweakerpositive.png)
