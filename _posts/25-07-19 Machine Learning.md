@@ -46,7 +46,7 @@ Wallis, N. (2021) The Great Post Office Scandal: The fight to expose a multimill
 
 ## Task 2- Correlation and regression
 
-### Through this task, I was asked to download and manipulate different datasets in Google Colab to explore the data. The first file to be explored was covariance_pearson_correlation.ipynb. In this file, I was able to achieve a variety of different outcomes, including:
+## Through this task, I was asked to download and manipulate different datasets in Google Colab to explore the data. The first file to be explored was covariance_pearson_correlation.ipynb. In this file, I was able to achieve a variety of different outcomes, including:
 
 ### Weakening the positive correlation
 This was achieved by increasing the random multiplier from "+10" to "+50" - data2 = data1 + (50 * randn(1000) + 50)
@@ -68,7 +68,7 @@ This was achieved by making data2 entirely independent of data1 - data2 = 20 * r
 This was achieved by removing the noise entirely, and making data2 depend completely on data1 - data2 = data1 + 50
 ![My logo](/assets/images/covarianceperfectpositivecorrelation.png)
 
-### The second file upon which I worked was linear_regression.ipynb. Below are some of the outputs I achieved:
+## The second file upon which I worked was linear_regression.ipynb. Below are some of the outputs I achieved:
 
 ### Strengthening the Positive Linear Correlation
 This was achieved by adjusting y values to clearly increase with x.
@@ -95,9 +95,46 @@ y = [99,86,87,88,111,86,103,87,94,78,77,85,86, 200]
 ![My logo](/assets/images/linearregoutlier.png)
 
 ### Creating a Non-Linear Relationship
+
 Data was set to follow a quadratic curve to demonstrate the limitations of a linear model.
 
 x = [1,2,3,4,5,6,7,8,9,10,11,12,13]
 y = [1,4,9,16,25,36,49,64,81,100,121,144,169] 
 
 ![My logo](/assets/images/linearregnonlinear.png)
+
+
+## The third file with which I worked was the file polynomial_regression.ipynb. Below are some of the outputs I achieved:
+
+### Exaggerating the Cubic Trend
+This was achieved by adjusting y values to create a more pronounced "S" or "W" shape, highlighting the cubic model's ability to fit such complex curves.
+
+x = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
+y = [100, 70, 40, 30, 40, 70, 100, 120, 100, 70, 40, 30, 40, 70, 100, 120, 100, 70, 40, 30] 
+
+![My logo](/assets/images/polynomialexaggeratem.png)
+
+### Fitting Simple Linear Data (Underfitting/Overfitting Illustration)
+Here, I provided data that is perfectly linear to see how a cubic polynomial would attempt to fit it.
+
+x = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
+y = [5,10,15,20,25,30,35,40,45,50,55,60,65,70,75,80,85,90,95,100] 
+
+![My logo](/assets/images/polynomiallinear.png)
+
+### Introducing a Significant Outlier
+A single extreme data point was added to observe the polynomial curve's high sensitivity and distortion when attempting to accommodate it.
+
+x = [1,2,3,5,6,7,8,9,10,12,13,14,15,16,18,19,21,22,  25]
+y = [100,90,80,60,60,55,60,65,70,70,75,76,78,79,90,99,99,100, 20]
+
+![My logo](/assets/images/polynomialoutlier.png)
+
+
+### Creating a Simple Quadratic (Parabolic) Relationship
+Data was set to follow a quadratic (U-shaped) curve to demonstrate how a higher-degree polynomial can still fit simpler non-linear patterns effectively.
+
+x = [-10, -8, -6, -4, -2, 0, 2, 4, 6, 8, 10]
+y = [100, 64, 36, 16, 4, 0, 4, 16, 36, 64, 100] 
+
+![My logo](/assets/images/polynomialparabola.png)
