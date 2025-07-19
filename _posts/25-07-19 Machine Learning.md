@@ -6,15 +6,16 @@ This discussion forum provided a valuable platform for exploring the intersectio
 My initial post focused on the Postmasters' Scandal, highlighting the Horizon IT system's flaws and the Post Office's institutional failures as a potent cautionary tale for the Fourth Industrial Revolution. I argued that "blind faith" in technology, despite clear inaccuracies, led to severe human, economic, and reputational costs, underscoring the urgent need for human oversight and ethical frameworks (Wallis, 2021).
 
 
+![My logo](/assets/images/initialpost.png)  
 
 My peer responses broadened this perspective. Responding to Naveed on the T-Mobile data breach, I emphasized foundational cybersecurity best practices (e.g., network segmentation) and introduced cyber resilience, noting that repeated breaches indicated deeper cultural issues. I also considered regulatory steps to enforce Industry 5.0 principles (BCI, 2025). For Mark's post on the Hillel Yaffe Medical Center ransomware attack, I reinforced Industry 5.0's human-centricity and resilience. I expanded on proactive resilience strategies (e.g., human training) and linked the incident to ethical AI deployment in healthcare, stressing transparency and oversight (Lim et al., 2023).
 
-[Insert Screenshot of Response to Naveed's Post Here]
-[Insert Screenshot of Response to Mark's Post Here]
+![My logo](/assets/images/naveedresponse.png)  
+![My logo](/assets/images/markresponse.png)  
 
 My summary post synthesized these insights, reiterating the Postmasters' Scandal's lessons on ethical governance in technology. It integrated preventative measures from peer feedback (e.g., independent audits) with Industry 5.0 principles. A key learning was that technological advancement carries inherent risks, demanding vigilance, comprehensive risk management, and a strong ethical compass to ensure technology serves human well-being (Aldred, 2022).
 
-[Insert Screenshot of Summary Post Here]
+![My logo](/assets/images/summarypost.png)
 
 Key Learnings and Future Considerations
 This activity significantly enhanced my understanding of system failures and the need for resilient, human-centric design. I gained practical experience in:
