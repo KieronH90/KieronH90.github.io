@@ -8,7 +8,7 @@ My initial post focused on the Postmasters' Scandal, highlighting the Horizon IT
 
 ![My logo](/assets/images/initialpost.png)  
 
-My peer responses broadened this perspective. Responding to Naveed on the T-Mobile data breach, I emphasized foundational cybersecurity best practices (e.g., network segmentation) and introduced cyber resilience, noting that repeated breaches indicated deeper cultural issues. I also considered regulatory steps to enforce Industry 5.0 principles (BCI, 2025). For Mark's post on the Hillel Yaffe Medical Center ransomware attack, I reinforced Industry 5.0's human-centricity and resilience. I expanded on proactive resilience strategies (e.g., human training) and linked the incident to ethical AI deployment in healthcare, stressing transparency and oversight (Lim et al., 2023).
+My peer's responses broadened this perspective. Responding to Naveed on the T-Mobile data breach, I emphasized foundational cybersecurity best practices (e.g., network segmentation) and introduced cyber resilience, noting that repeated breaches indicated deeper cultural issues. I also considered regulatory steps to enforce Industry 5.0 principles (BCI, 2025). For Mark's post on the Hillel Yaffe Medical Center ransomware attack, I reinforced Industry 5.0's human-centricity and resilience. I expanded on proactive resilience strategies (e.g., human training) and linked the incident to ethical AI deployment in healthcare, stressing transparency and oversight (Lim et al., 2023).
 
 ![My logo](/assets/images/naveedresponse.png)  
 ![My logo](/assets/images/markresponse.png)  
@@ -46,7 +46,8 @@ Wallis, N. (2021) The Great Post Office Scandal: The fight to expose a multimill
 
 ## Task 2- Correlation and regression
 
-Through this task, I was asked to download and manipulate different datasets in Google Colab to exmplore the data. The first file to be explored was covariance_pearson_correlation.ipynb. In this file, I was able to acheive a variety of different outcomes, including:
+Through this task, I was asked to download and manipulate different datasets in Google Colab to explore the data. The first file to be explored was covariance_pearson_correlation.ipynb. In this file, I was able to achieve a variety of different outcomes, including:
+
 ### Weakening the positive correlation
 This was achieved by increasing the random multiplier from "+10" to "+50" - data2 = data1 + (50 * randn(1000) + 50)
 ![My logo](/assets/images/covarianceweakerpositive.png)
@@ -54,3 +55,15 @@ This was achieved by increasing the random multiplier from "+10" to "+50" - data
 ### Weakening the positive correlation even further
 This was achieved by increasing the random multiplier from "*50" to "*200" - data2 = data1 + (200 * randn(1000) + 50)
 ![My logo](/assets/images/covarianceevenweakerpositive.png)
+
+### Manipulating the data into a strong negative correlation
+This was achieved by inverting data2, by including a negative symbol before data1 - data2 = -data1 + (10 * randn(1000) + 200)
+![My logo](/assets/images/covariancemadenegative.png)
+
+### Removing correlation entirely
+This was achieved by making data2 entirely independent of data1 - data2 = 20 * randn(1000) + 150
+![My logo](/assets/images/covariancenocorrelation.png)
+
+### Creating a perfect correlation
+This was achieved by removing the noise entirely, and making data2 depend completely on data1 - data2 = data1 + 50
+![My logo](/assets/images/covarianceperfectpositivecorrelation.png)
