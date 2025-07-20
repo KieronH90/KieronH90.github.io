@@ -1,8 +1,10 @@
+---
 layout: post
 title: Machine Learning
 subtitle: An e-portfolio summary of my learning during the machine learning unit
 categories: Machine learning
 tags: [machine learning, e-portfolio]
+---
 
 ## Task 1 - Collaborative discussion 
 
