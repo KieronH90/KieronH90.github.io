@@ -5,10 +5,9 @@ This discussion forum provided a valuable platform for exploring the intersectio
 
 My initial post focused on the Postmasters' Scandal, highlighting the Horizon IT system's flaws and the Post Office's institutional failures as a potent cautionary tale for the Fourth Industrial Revolution. I argued that "blind faith" in technology, despite clear inaccuracies, led to severe human, economic, and reputational costs, underscoring the urgent need for human oversight and ethical frameworks (Wallis, 2021).
 
-
 ![My logo](/assets/images/initialpost.png)  
 
-My peer's responses broadened this perspective. Responding to Naveed on the T-Mobile data breach, I emphasized foundational cybersecurity best practices (e.g., network segmentation) and introduced cyber resilience, noting that repeated breaches indicated deeper cultural issues. I also considered regulatory steps to enforce Industry 5.0 principles (BCI, 2025). For Mark's post on the Hillel Yaffe Medical Center ransomware attack, I reinforced Industry 5.0's human-centricity and resilience. I expanded on proactive resilience strategies (e.g., human training) and linked the incident to ethical AI deployment in healthcare, stressing transparency and oversight (Lim et al., 2023).
+My peer's responses broadened this perspective. Responding to Naveed on the T-Mobile data breach, I emphasized foundational cybersecurity best practices (e.g., network segmentation) and introduced cyber resilience, noting that repeated breaches indicated deeper cultural issues.  I expanded on proactive resilience strategies (e.g., human training) and linked the incident to ethical AI deployment in healthcare, stressing transparency and oversight (Lim et al., 2023).
 
 ![My logo](/assets/images/naveedresponse.png)  
 ![My logo](/assets/images/markresponse.png)  
@@ -17,32 +16,12 @@ My summary post synthesized these insights, reiterating the Postmasters' Scandal
 
 ![My logo](/assets/images/summarypost.png)
 
-Key Learnings and Future Considerations
-This activity significantly enhanced my understanding of system failures and the need for resilient, human-centric design. I gained practical experience in:
-
-Applying theoretical frameworks to real-world incidents.
-
-Conducting focused research and developing strong written communication skills.
-
-Engaging in constructive peer dialogue and reflecting critically on technology's impact.
-
 For future similar tasks, I would aim to:
 
 Select initial post incidents with more direct links to specific machine learning dataset challenges to explicitly address that learning outcome.
 
 Proactively draw stronger connections to data-related challenges in peer responses, even if the primary incident cause wasn't dataset-specific.
 
-This forum provided an invaluable opportunity to deepen my understanding and refine my collaborative and analytical skills in a virtual academic setting.
-
-References
-
-Aldred, C. (2022) The Great Post Office Scandal. London: Orion Publishing Co.
-
-BCI (2025) Cyber resilience in IT & OT: The foundation for Industry 5.0 and critical infrastructure. Available at: https://www.thebci.org/news/cyber-resilience-in-it-ot-the-foundation-for-industry-5-0-and-critical-infrastructure.html (Accessed: 3 July 2025).
-
-Lim, K.S., Lee, J.S. and Kim, J.C. (2023) 'Human-centered artificial intelligence in healthcare: A review', Journal of Medical Systems, 47(1), p. 2.
-
-Wallis, N. (2021) The Great Post Office Scandal: The fight to expose a multimillion pound IT disaster which put innocent people in jail. London: Bath Publishing Ltd.
 
 ## Task 2- Correlation and regression
 
@@ -249,31 +228,21 @@ My initial post discussed AI writers' benefits in efficiency and creativity, alo
 
 ![My_logo](/assets/images/collab1.png)
 
-My Peer Responses
 Responding to Valentina:
 
-Peer Valentina Mercieca highlighted AI's efficiency and creativity benefits, balanced against risks of bias, IP, job displacement, and transparency (Guardian, 2024; Times, 2025; U.S. Copyright Office, 2023). My response proposed data governance, human-in-the-loop systems, disclosure standards, and updated legal frameworks to mitigate these issues (Crawford, 2021; Al-Busaidi et al., 2024).
+Peer Valentina highlighted AI's efficiency and creativity benefits, balanced against risks of bias, IP, job displacement, and transparency (Guardian, 2024; Times, 2025; U.S. Copyright Office, 2023). My response proposed data governance, human-in-the-loop systems, disclosure standards, and updated legal frameworks to mitigate these issues (Crawford, 2021; Al-Busaidi et al., 2024).
 
 ![My_logo](/assets/images/collab2.png)
 
 Responding to Opeyemi:
 
-Peer Opeyemi Adeniran similarly outlined AI writers' pros and cons, stressing risks like bias, inaccuracy, authorship, and media transparency (Guardian, 2024; Times, 2025; U.S. Copyright Office, 2023). My response underscored rigorous data governance, human oversight, transparency protocols, and continuous legal/ethical development as key preventative measures.
+Peer Opeyemi similarly outlined AI writers' pros and cons, stressing risks like bias, inaccuracy, authorship, and media transparency (Guardian, 2024; Times, 2025; U.S. Copyright Office, 2023). My response underscored rigorous data governance, human oversight, transparency protocols, and continuous legal/ethical development as key preventative measures.
 
 ![My_logo](/assets/images/collab3.png)
 
 My summary post synthesized these insights, emphasizing balancing AI's benefits with preventative strategies. It highlighted responsible AI deployment, ethical development, and human-centric principles (European Commission, 2019), concluding that continuous vigilance and transparent human-AI partnership are crucial.
 
 ![My_logo](/assets/images/collab4.png)
-
-### Key Learnings and Future Considerations
-This activity enhanced my understanding of AI applications, ethics, and technical risks. I gained practical experience in:
-
-Applying frameworks to real-world AI incidents.
-
-Conducting focused research and refining communication.
-
-Engaging in critical peer dialogue.
 
 For future tasks, I aim to:
 
@@ -283,9 +252,127 @@ Proactively connect incidents to precise preventative technical measures.
 
 This forum was invaluable for deepening my analytical and collaborative skills.
 
+## Task 6 - Gradient Cost Function
+
+This task explored Gradient Descent by varying the iteration number and learning_rate, observing their impact on cost reduction and model convergence. This directly informed understanding of ML algorithm applicability and data challenges.
+
+The initial setup (iterations=100, learning_rate=0.08) showed successful convergence.
+
+[Insert Image: Conceptual Cost Plot showing effective convergence, e.g., smooth downward curve flattening out]
+![Conceptual Cost Plot: Effective Convergence with optimal parameters](/assets/images/cost_effective_convergence.png)
+
+
+### High Learning Rate (Divergence)
+
+Parameters & Observation: With learning_rate = 0.5, cost rapidly diverged, exploding from 89.0 to immense numbers.
+
+Finding: Overly large steps cause the algorithm to overshoot the minimum, leading to instability and complete failure to converge.
+
+![My_logo](/assets/images/gradient1.png)
+
+### Low Learning Rate (Slow Convergence)
+
+Parameters & Observation: Using learning_rate = 0.001, cost decreased but only reached 1.6470 by iteration 99.
+
+Finding: Tiny steps lead to extremely slow convergence, making the process inefficient and often leaving the model suboptimal within practical iteration limits.
+
+![My_logo](/assets/images/gradient2.png)
+
+### Insufficient Iterations (Incomplete Convergence)
+
+Parameters & Observation: With iterations = 20 (and learning_rate = 0.08), the cost stopped at 1.5233 at iteration 19.
+
+Finding: Premature termination prevents full convergence, even with a good learning_rate, resulting in a suboptimal model.
+
+![My_logo](/assets/images/gradient3.png)
+
+Key Learnings and Future Considerations
+These experiments highlight that learning_rate and iteration number are critical hyperparameters. Their optimal values are dataset-dependent, emphasizing the challenge of tuning and the importance of data preprocessing (like scaling) for algorithm applicability. Effective ML requires balancing these factors to ensure efficient and accurate model learning. Future work could explore the impact of scaling on optimal parameters with more complex datasets.
+
+## Task 7 - CNN model activity
+
+This task explored Convolutional Neural Networks (CNNs) for object recognition using the CIFAR-10 dataset, examining algorithmic components, prediction outcomes, and ethical implications.
+
+### Ethical & Social Implications of CNNs
+CNN technology presents significant ethical challenges:
+
+Bias & Discrimination: Models can amplify biases from training data, impacting fairness in applications like facial recognition.
+
+Privacy & Surveillance: CNNs enable powerful monitoring, raising privacy concerns.
+
+Reliability & Accountability: Model errors can have severe consequences, complicated by the "black box" nature of CNNs.
+
+Misinformation: CNNs contribute to deepfakes and the spread of false information.
+
+CNN Model Overview
+The model, trained on the CIFAR-10 dataset (60,000 32x32 colour images across 10 classes), performs object recognition.
+
+Preprocessing: Images were scaled (0-1) and labels one-hot encoded. A validation set was used to prevent overfitting.
+
+Architecture: The Sequential model used Conv2D and MaxPool2D layers for feature extraction, followed by Flatten and Dense layers for classification with a softmax output.
+
+Training: It was compiled with categorical_crossentropy and adam, utilising EarlyStopping, which halted training after Epoch 5.
+
+Image Prediction Findings
+Individual tests on x_test images showed varied results:
+
+Image 4: Predicted 'deer', but was actually 'frog' – a misclassification highlighting visual ambiguity.
+![My_logo](/assets/images/CNN4.png)
+
+Image 9: Correctly predicted 'automobile'.
+
+![My_logo](/assets/images/CNN9.png)
+
+Image 11: Correctly predicted 'truck'.
+
+![My_logo](/assets/images/CNN11.png)
+
+Key Learnings & Discussion Points
+Ethics & Professionalism: The misclassification of Image 4 proves models aren't infallible. Professionals must assess reliability, prioritize data quality (accurate labeling), and ethically deploy models, especially in high-stakes scenarios.
+
+Applicability & Dataset Challenges: CNNs are highly applicable for image recognition, as shown by correct predictions. However, challenges persist with low-resolution data, class similarities, and ensuring sufficient dataset diversity for robust generalisation.
+
+## Task 8 - Model performance measurement
+
+TEST 1: Model Complexity (Regularisation) Impact on AUC
+Logistic Regression performance was assessed with varying regularisation (C) on a classification dataset.
+
+C = 0.01 (Strong Reg): Training AUC: 0.9778, Test AUC: 0.9972. Model generalized excellently, even outperforming training slightly.
+
+C = 1.0 (Moderate Reg): Training AUC: 0.9933, Test AUC: 0.9978. Achieved the highest test AUC, indicating near-optimal balance and excellent generalisation.
+
+C = 100.0 (Weak Reg): Training AUC: 0.9955, Test AUC: 0.9956. Showed a minor overfitting trend (Training AUC slightly higher than Test AUC), but overall performance remained very high.
+
+Takeaway: The model achieved consistently high, near-perfect AUCs across regularization strengths, indicating strong suitability for this dataset.
+
+TEST 2: Class Imbalance Impact on F1-Score & Precision/Recall
+Tested on a highly imbalanced dataset (Majority: 289 samples; Minority: 11 samples, ~95:5 ratio).
+
+Overall Accuracy: 0.9933. (appears high).
+
+Class 0 (Majority): Precision: 1.00, Recall: 0.99, F1-score: 1.00 (Excellent).
+
+Class 1 (Minority): Precision: 0.85, Recall: 1.00, F1-score: 0.92.
+
+Takeaway: High overall accuracy was misleading. While all 11 minority instances were recalled, 15% of positive predictions for the minority class were false positives (Precision 0.85). This emphasizes the critical role of per-class metrics (Precision, Recall, F1) for fair evaluation in imbalanced scenarios.
+
+TEST 3: Baseline Performance of a 'Random' Classifier
+This test established minimum performance thresholds for useful models.
+
+Classification (AUC): Random Classifier AUC: 0.4910. Confirmed random performance is near 0.50.
+
+Regression (R2): Random Regressor R2: -1.8969. Demonstrated performance significantly worse than simply predicting the mean (R2 < 0).
+
+Takeaway: Any useful ML model must significantly exceed these random baselines (AUC > 0.5, R2 > 0) to be considered valuable.
+
+
 References
 
 Al-Busaidi, S. et al. (2024) ‘AI-generated content: A systematic review of challenges and opportunities’, Journal of Information Science, 50(1), pp. 104–121.
+
+Aldred, C. (2022) The Great Post Office Scandal. London: Orion Publishing Co.
+
+BCI (2025) Cyber resilience in IT & OT: The foundation for Industry 5.0 and critical infrastructure. Available at: https://www.thebci.org/news/cyber-resilience-in-it-ot-the-foundation-for-industry-5-0-and-critical-infrastructure.html (Accessed: 3 July 2025).
 
 Brennen, J.S. et al. (2018) The Oxford Handbook of the Economics of the Internet. Oxford University Press.
 
@@ -297,6 +384,8 @@ Floridi, L. and Chiriatti, M. (2020) ‘GPT-3: Its Nature, Scope, Limits, and Co
 
 Hutson, M. (2021) ‘Robo-writers: the rise and risks of language-generating AI’, Nature, 598(7882), pp. 556-559.
 
+Lim, K.S., Lee, J.S. and Kim, J.C. (2023) 'Human-centered artificial intelligence in healthcare: A review', Journal of Medical Systems, 47(1), p. 2.
+
 McCormack, J. et al. (2019) ‘Autonomy, Authenticity, Authorship and Intention in computer generated art’, EvoMUSART 2019, pp 35-50.
 
 Ribeiro, M.T. et al. (2016) ‘"Why Should I Trust You?": Explaining the Predictions of Any Classifier’, Proceedings of the 22nd ACM SIGKDD International Conference, pp. 1135–1144.
@@ -305,10 +394,10 @@ Russell, S. J. and Norvig, P. (2021) Artificial Intelligence: A Modern Approach.
 
 The Guardian (2024) 'AI prompts can boost writers' creativity but result in similar stories, study finds', The Guardian, 12 July.
 
-
-
 The Times (2025) 'Magazines caught using AI and fake writers for online stories', The Times, 30 June.
 
 U.S. Copyright Office (2023) 'Copyright Registration Guidance: Works Containing Material Generated by Artificial Intelligence', Federal Register, 88(52), pp. 16190–16195.
 
-Wang, L. et al. (2021) ‘Automatic text summarization in healthcare: A systematic review’, Journal of Biomedical Informatics, 113, p. 103606.
+Wallis, N. (2021) The Great Post Office Scandal: The fight to expose a multimillion pound IT disaster which put innocent people in jail. London: Bath Publishing Ltd.
+
+Wang, L. et al. (2021) ‘Automatic text summarisation in healthcare: A systematic review’, Journal of Biomedical Informatics, 113, p. 103606.
