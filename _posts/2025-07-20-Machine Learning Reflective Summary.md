@@ -1,7 +1,7 @@
 # Reflective Summary: My Machine Learning Learning Journey
 This unit has significantly expanded my understanding and practical skills in machine learning, integrating theoretical knowledge with hands-on application and critical ethical considerations.
 
-## Knowledge of Machine Learning Algorithms and Concepts
+## 1.Knowledge of Machine Learning Algorithms and Concepts
 My foundational understanding of machine learning algorithms matured through a progression of tasks. Correlation and Regression tasks provided a hands-on grasp of data relationships, demonstrating how to manipulate variables to create varying correlations (e.g., perfect positive) and visualise linear, non-linear, and outlier impacts on model fitting. This highlighted the critical challenges of underfitting and overfitting. The Jaccard Coefficient task introduced similarity metrics essential for clustering applications.
 
 My journey into neural networks began with Perceptron Models. I explored fundamental principles, observing how input, weights, and thresholds determined output. Experiments with the AND operator clarified the crucial role of learning_rate in convergence, showing how both acceleration and slower convergence could occur based on its value. The Multi-Layer Perceptron (MLP) for the XOR operator was a pivotal step, demonstrating how hyperparameters like epochs and learning rate enable models to learn non-linearly separable functions.
@@ -28,10 +28,10 @@ This unit has profoundly impacted my development. Professionally, my critical ev
 
 Personally, the consistent engagement with ethical AI discussions has broadened my perspective. My emphasis on bias mitigation, accountability, and transparency reflects a deep commitment to responsible innovation. This ethical lens will undoubtedly guide my future work. My experience within the development team also honed my collaborative skills, particularly in navigating initial ambiguities and contributing effectively across project phases.
 
-## Emotional Response and Analysis
+## 2.Emotional Response and Analysis
 Working on this project evoked a range of emotions. Initial excitement exploring new concepts often gave way to frustration when models didn't perform as expected or when I faced computational limitations, like memory errors during SVM tuning. However, overcoming these challenges, such as successfully implementing data subsetting, brought a strong sense of accomplishment. Moments of anxiety concerning the complexity of certain tasks or large datasets pushed me to be more meticulous in my planning and execution.
 
-## Learning and Changed Actions
+## 3.Learning and Changed Actions
 My most significant learning stemmed from the iterative cycle of experimentation, observation, and critical analysis. For instance, hands-on manipulation of gradient descent parameters (Task 6 within the e-portfolio post) fundamentally shifted my understanding from theoretical to practical, revealing the direct impact of hyperparameter choices on model convergence. Similarly, the stark contrast between overall accuracy and per-class metrics in the imbalanced dataset (Task 8 within the e-portfolio post) permanently altered my approach to evaluating classification models, prioritizing Precision, Recall, and F1-score for minority classes.
 
 Evidence of developed skills and knowledge includes:
