@@ -13,6 +13,7 @@ In a CNN Model Activity, I applied Convolutional Neural Networks for object reco
 Finally, Model Performance Measurement refined my evaluation skills. Experiments demonstrated:
 
 •	Regularisation Impact: Consistent high AUCs (e.99) across varying regularisation strengths, indicating robustness for well-suited datasets.
+
 •	Class Imbalance: Revealed how high overall accuracy (0.9933) could be deceptive in imbalanced datasets, emphasising the critical need for per-class metrics like Precision, Recall, and F1-score for minority classes (e.g., Precision 0.85 for Class 1 with 11 samples).
 
 •	Random Baselines: Confirmed that useful models must significantly exceed random performance (AUC ~0.5, R2 < 0).
@@ -34,13 +35,21 @@ Working on this project evoked a range of emotions. Initial excitement exploring
 My most significant learning stemmed from the iterative cycle of experimentation, observation, and critical analysis. For instance, hands-on manipulation of gradient descent parameters (Task 6 within the e-portfolio post) fundamentally shifted my understanding from theoretical to practical, revealing the direct impact of hyperparameter choices on model convergence. Similarly, the stark contrast between overall accuracy and per-class metrics in the imbalanced dataset (Task 8 within the e-portfolio post) permanently altered my approach to evaluating classification models, prioritizing Precision, Recall, and F1-score for minority classes.
 
 Evidence of developed skills and knowledge includes:
+
 •	Data Preprocessing: Mastering normalisation and robust train/validation/test splitting.
+
 •	Algorithm Application: Proficiently applying Regression, Perceptrons, SVMs, and CNNs.
+
 •	Hyperparameter Tuning: Effectively using techniques like GridSearchCV to optimise models and understand overfitting/underfitting.
+
 •	Performance Evaluation: Critically analysing outcomes with diverse metrics (AUC, R2, F1-score) and establishing baselines.
+
 •	Ethical AI Awareness: Consistently engaging with principles of bias, accountability, and data governance in AI applications.
+
 •	Problem-Solving: Overcoming practical challenges like memory constraints through creative solutions like data subsetting.
+
 •	Collaboration: Actively contributing to team problem definition, data visualisation, and report refinement.
+
 
 These skills are directly applicable in real-world scenarios. My enhanced understanding of model evaluation, particularly for imbalanced datasets, is crucial for building fair systems in fields like healthcare or finance. The experience with feature engineering limitations (flattening pixels) underscores the importance of domain-specific knowledge and exploring advanced techniques. My collaborative experience is directly transferable to any professional development team setting. I now approach ML projects with a more holistic perspective, integrating technical expertise with ethical considerations and practical constraints.
 
