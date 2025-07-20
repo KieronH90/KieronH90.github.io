@@ -1,4 +1,11 @@
-# Reflective Summary: My Machine Learning Learning Journey
+---
+layout: post
+title: Machine learning Journey
+subtitle: My Machine Learning Reflective Summary
+categories: Machine learning
+tags: [machine learning, e-portfolio, reflection, reflective summary]
+---
+
 This unit has significantly expanded my understanding and practical skills in machine learning, integrating theoretical knowledge with hands-on application and critical ethical considerations.
 
 ## 1.Knowledge of Machine Learning Algorithms and Concepts
