@@ -146,7 +146,7 @@ In this task, I was asked to calculate various Jaccard coefficients using a prov
 
 ## Task 4 - Experimenting with Perceptron Models (Simple, AND Gate, Multi-Layer Perceptron)
 
-### Simple perception
+### Simple perceptron
 
 Through this task, I was asked to download and manipulate different Python activities in Google Colab to explore the fundamental principles of a simple perceptron. The primary file explored was simple_perceptron.ipynb. In this file, I was able to achieve a variety of different outcomes, including:
 
@@ -170,3 +170,41 @@ This was achieved by finding precise combinations of inputs and weights that cau
 ![My logo](/assets/images/simpleperceptronexperiment3.png)
 
 ![My logo](/assets/images/simpleperceptronoutput3.png)
+
+## Perceptron AND operator
+
+Through this task, I was asked to download and manipulate different Python activities in Google Colab to explore the fundamental principles of a simple perceptron and its capabilities when learning a logical operator. The first file to be explored was perceptron_AND_operator.ipynb. In this file, I was able to achieve a variety of different outcomes by only changing numerical values, including:
+
+### Establishing a Baseline for Learning the AND Gate
+
+This was achieved by utilizing the perceptron's initial configuration to learn the AND gate logic. The inputs were [[0,0], [0,1], [1,0], [1,1]] with corresponding target outputs of [0, 0, 0, 1]. The learning_rate was set to 0.1 and weights were initialized to [0.0, 0.0]. The perceptron successfully converged and learned the AND logic, providing a reference point for subsequent experiments (e.g., 6 epochs in my run).
+
+![My logo](/assets/images/andoperatorinput1.png)
+
+![My logo](/assets/images/andoperatoroutput1.png)
+
+### Accelerating Convergence with an Increased learning_rate
+
+This was achieved by changing the learning_rate value from 0.1 to 0.5, while keeping the outputs set to [0, 0, 0, 1] for the AND gate and resetting weights to [0.0, 0.0]. This modification resulted in significantly faster convergence (e.g., 2 epochs in my run) for the AND gate.
+
+![My logo](/assets/images/andoperatorinput2.png)
+
+![My logo](/assets/images/andoperatoroutput2.png)
+
+### Observing Slower Convergence with a Decreased learning_rate
+
+This was achieved by changing the learning_rate value from 0.1 to 0.01, while keeping the outputs set to [0, 0, 0, 1] for the AND gate and resetting weights to [0.0, 0.0]. This change caused the perceptron to converge much more slowly (e.g., 51 epochs in my run) for the AND gate, demonstrating the impact of smaller adjustment steps.
+
+![My logo](/assets/images/andoperatorinput3.png)
+
+![My logo](/assets/images/andoperatoroutput31.png)
+
+![My logo](/assets/images/andoperatoroutput32.png)
+
+### Analyzing the Impact of Different Initial weights on Convergence
+
+This was achieved by changing the initial weights from [0.0, 0.0] to [0.2, 0.3], while maintaining the outputs at [0, 0, 0, 1] for the AND gate and the learning_rate at 0.1. This illustrated how the starting point of the weights can influence the number of epochs required for convergence (e.g., 4 epochs in my run), showing that a closer starting point can sometimes lead to quicker learning.
+
+![My logo](/assets/images/andoperatorinput4.png)
+
+![My logo](/assets/images/andoperatoroutput4.png)
