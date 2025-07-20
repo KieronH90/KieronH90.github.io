@@ -1,4 +1,9 @@
-# Machine Learning 
+layout: post
+title: Machine Learning
+subtitle: An e-portfolio summary of my learning during the machine learning unit
+categories: Machine learning
+tags: [machine learning, e-portfolio]
+
 ## Task 1 - Collaborative discussion 
 
 My initial post is shown below. I argued that "blind faith" in technology, despite clear inaccuracies, led to severe human, economic, and reputational costs, underscoring the urgent need for human oversight and ethical frameworks (Wallis, 2021).
