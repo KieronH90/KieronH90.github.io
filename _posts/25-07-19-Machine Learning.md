@@ -25,48 +25,61 @@ Proactively draw stronger connections to data-related challenges in peer respons
 Through this task, I was asked to download and manipulate different datasets in Google Colab to explore the data. The first file to be explored was covariance_pearson_correlation.ipynb. In this file, I was able to achieve a variety of different outcomes, including:
 
 **Weakening the positive correlation**
+
 ![My logo](/assets/images/covarianceweakerpositive.png)
 
 **Weakening the positive correlation even further**
+
 ![My logo](/assets/images/covarianceevenweakerpositive.png)
 
 **Manipulating the data into a strong negative correlation**
+
 ![My logo](/assets/images/covariancemadenegative.png)
 
 **Removing correlation entirely**
+
 ![My logo](/assets/images/covariancenocorrelation.png)
 
 **Creating a perfect correlation**
+
 ![My logo](/assets/images/covarianceperfectpositivecorrelation.png)
 
 The second file upon which I worked was linear_regression.ipynb. Below are some of the outputs I achieved:
 
 **Strengthening the Positive Linear Correlation**
+
 ![My logo](/assets/images/linearregstrongpositive.png)
 
 **Creating a Negative Correlation**
+
 ![My logo](/assets/images/linearregweaknegcorr.png)
 
 **Introducing an Outlier**
+
 ![My logo](/assets/images/linearregoutlier.png)
 
 **Creating a Non-Linear Relationship**
+
 ![My logo](/assets/images/linearregnonlinear.png)
 
 
 The third file with which I worked was the file polynomial_regression.ipynb. Below are some of the outputs I achieved:
 
 **Exaggerating the Cubic Trend**
+
 ![My logo](/assets/images/polynomialexaggeratem.png)
 
 **Fitting Simple Linear Data (Underfitting/Overfitting Illustration)**
+
 ![My logo](/assets/images/polynomiallinear.png)
 
 **Introducing a Significant Outlier**
+
 ![My logo](/assets/images/polynomialoutlier.png)
 
 
 **Creating a Simple Quadratic (Parabolic) Relationship**
+
 ![My logo](/assets/images/polynomialparabola.png)
 
 ## Task 3 - The Jaccard Coefficient 
@@ -214,6 +227,7 @@ Reliability & Accountability: Model errors can have severe consequences, complic
 Misinformation: CNNs contribute to deepfakes and the spread of false information.
 
 Image 4: Predicted 'deer', but was actually 'frog' – a misclassification highlighting visual ambiguity.
+
 ![My_logo](/assets/images/CNN4.png)
 
 Image 9: Correctly predicted 'automobile'.
