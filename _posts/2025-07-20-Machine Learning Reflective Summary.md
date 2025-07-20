@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Machine learning Journey
-subtitle: My Machine Learning Reflective Summary
+title: Machine learning Reflective Summary
+subtitle: My Machine Learning Journey
 categories: Machine learning
 tags: [machinelearning, e-portfolio, reflection, reflective summary]
 ---
