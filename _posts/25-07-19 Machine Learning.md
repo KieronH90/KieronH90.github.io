@@ -144,3 +144,29 @@ In this task, I was asked to calculate various Jaccard coefficients using a prov
 
 ![My logo](/assets/images/Jaccard.png) 
 
+## Task 4 - Experimenting with Perceptron Models (Simple, AND Gate, Multi-Layer Perceptron)
+
+### Simple perception
+
+Through this task, I was asked to download and manipulate different Python activities in Google Colab to explore the fundamental principles of a simple perceptron. The primary file explored was simple_perceptron.ipynb. In this file, I was able to achieve a variety of different outcomes, including:
+
+#### Observing Input Impact on Perceptron Output:
+This was achieved by changing the input values from [0.1, 0.05] to significantly larger inputs like [8.0, 7.0], which resulted in the perceptron activating (outputting 1) from a previous non-activation (output 0) with fixed weights [0.1, 0.1]. Similarly, setting inputs to [0.0, 0.0] ensured non-activation.
+
+![My logo](/assets/images/simpleperceptronexperiment1.png)
+
+![My logo](/assets/images/simpleperceptronoutput1.png)
+
+#### Observing Weight Impact on Perceptron Output:
+This was achieved by changing the weight values from [0.1, 0.1] to larger weights like [10.0, 10.0] while keeping inputs fixed at [0.1, 0.05]. This caused the perceptron to activate (output 1), demonstrating how increased weight values amplify input influence. Conversely, reducing weights to [0.01, 0.01] ensured non-activation, and introducing a negative weight [-0.7, 0.1] caused a inhibitory effect.
+
+![My logo](/assets/images/simpleperceptronexperiment2.png)
+
+![My logo](/assets/images/simpleperceptronoutput2.png)
+
+##### Identifying Conditions for Perceptron Activation (Threshold):
+This was achieved by finding precise combinations of inputs and weights that caused the weighted sum to meet or exceed the perceptron's activation threshold of 1. For example, with weights [0.1, 0.1], inputs [5.0, 5.0] resulted in a sum of 1.0 and activation (output 1). Likewise, with inputs [0.1, 0.05], weights [9.0, 2.0] produced a sum of 1.0 and activation, clearly illustrating the threshold boundary.
+
+![My logo](/assets/images/simpleperceptronexperiment3.png)
+
+![My logo](/assets/images/simpleperceptronoutput3.png)
