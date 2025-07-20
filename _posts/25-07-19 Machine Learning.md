@@ -208,3 +208,107 @@ This was achieved by changing the initial weights from [0.0, 0.0] to [0.2, 0.3],
 ![My logo](/assets/images/andoperatorinput4.png)
 
 ![My logo](/assets/images/andoperatoroutput4.png)
+
+## Multi-layer Perceptron for XOR Operator Exploration
+
+Through this task, I was asked to download and manipulate different Python activities in Google Colab to explore the capabilities of a Multi-Layer Perceptron (MLP) when learning the non-linearly separable XOR logical operator. The file explored was Unit07 Ex3 multi-layer Perceptron (1).ipynb. In this file, I was able to achieve a variety of different outcomes by adjusting key hyperparameters, including:
+
+### Establishing a Baseline for Learning the XOR Gate
+
+This was achieved by utilizing the MLP's initial configuration with randomly initialized weights, epochs = 400,000, and a learning_rate = 0.6. The inputs were [[0,0], [0,1], [1,0], [1,1]] with corresponding target outputs for the XOR gate ([0, 1, 1, 0]). The network successfully converged to a very low average error of approximately 0.011, and its predictions, when rounded, perfectly matched the XOR truth table. This outcome confirmed the MLP's ability to solve problems intractable for a simple perceptron.
+
+![My logo](/assets/images/xorinput1.png)
+![My logo](/assets/images/xoroutput1.png)
+
+### Observing Underfitting with Fewer Epochs
+
+This was achieved by significantly reducing the epochs to 50,000, while keeping the learning_rate at 0.6 and re-initializing weights randomly. This resulted in the network not fully converging, yielding a higher final average error of approximately 0.134. The plot of error over epochs visibly flattened out at this higher error level, demonstrating that the model was underfit and hadn't learned the complex XOR pattern sufficiently.
+
+![My logo](/assets/images/xorinput2.png)
+![My logo](/assets/images/xoroutput2.png)
+
+### Analyzing Slower Convergence with a Lower Learning Rate
+
+This was achieved by decreasing the learning_rate to 0.05, while retaining 400,000 epochs and re-initializing weights randomly. The final average error was approximately 0.020, which was higher than the baseline's error for the same number of epochs, though still performing better than the underfit case. The error plot demonstrated a smoother, more gradual descent compared to the baseline, indicating that the smaller weight adjustments per epoch slowed down the convergence process.
+
+![My logo](/assets/images/xorinput3.png)
+![My logo](/assets/images/xoroutput3.png)
+
+### Exploring the Impact of a Smaller Range of Initial Weights
+
+This was achieved by setting the initial random weights to a smaller range (between approximately [-0.1, 0.1]), while keeping epochs at 400,000 and learning_rate at 0.6. This experiment yielded the best performance, with a final average error of approximately 0.008, even lower than the baseline. The error plot initially showed a plateau before a sharp drop and continued convergence to a very low error. This indicates that a different initial weight distribution can significantly influence the learning path, sometimes leading to a more optimal or efficient convergence for certain problems.
+
+![My logo](/assets/images/xorinput4.png)
+![My logo](/assets/images/xoroutput4.png)
+
+## Task 5 - Collaborative discussion
+
+This forum explored AI writers (LLMs) and their implications, linking to machine learning, technical risk, and uncertainty (Units 8-10). 
+
+My initial post discussed AI writers' benefits in efficiency and creativity, alongside risks like inaccuracy, bias, and IP challenges (Russell & Norvig, 2021; Hutson, 2021). I emphasised the need to address inherent technical risks.
+
+![My_logo](/assets/images/collab1.png)
+
+My Peer Responses
+Responding to Valentina:
+
+Peer Valentina Mercieca highlighted AI's efficiency and creativity benefits, balanced against risks of bias, IP, job displacement, and transparency (Guardian, 2024; Times, 2025; U.S. Copyright Office, 2023). My response proposed data governance, human-in-the-loop systems, disclosure standards, and updated legal frameworks to mitigate these issues (Crawford, 2021; Al-Busaidi et al., 2024).
+
+![My_logo](/assets/images/collab2.png)
+
+Responding to Opeyemi:
+
+Peer Opeyemi Adeniran similarly outlined AI writers' pros and cons, stressing risks like bias, inaccuracy, authorship, and media transparency (Guardian, 2024; Times, 2025; U.S. Copyright Office, 2023). My response underscored rigorous data governance, human oversight, transparency protocols, and continuous legal/ethical development as key preventative measures.
+
+![My_logo](/assets/images/collab3.png)
+
+My summary post synthesized these insights, emphasizing balancing AI's benefits with preventative strategies. It highlighted responsible AI deployment, ethical development, and human-centric principles (European Commission, 2019), concluding that continuous vigilance and transparent human-AI partnership are crucial.
+
+![My_logo](/assets/images/collab4.png)
+
+### Key Learnings and Future Considerations
+This activity enhanced my understanding of AI applications, ethics, and technical risks. I gained practical experience in:
+
+Applying frameworks to real-world AI incidents.
+
+Conducting focused research and refining communication.
+
+Engaging in critical peer dialogue.
+
+For future tasks, I aim to:
+
+Link incidents more directly to specific ML technical challenges.
+
+Proactively connect incidents to precise preventative technical measures.
+
+This forum was invaluable for deepening my analytical and collaborative skills.
+
+References
+
+Al-Busaidi, S. et al. (2024) ‘AI-generated content: A systematic review of challenges and opportunities’, Journal of Information Science, 50(1), pp. 104–121.
+
+Brennen, J.S. et al. (2018) The Oxford Handbook of the Economics of the Internet. Oxford University Press.
+
+Crawford, K. (2021) Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence. New Haven: Yale University Press.
+
+European Commission (2019) Ethics Guidelines for Trustworthy AI.
+
+Floridi, L. and Chiriatti, M. (2020) ‘GPT-3: Its Nature, Scope, Limits, and Consequences’, Minds & Machines, 30(4), pp. 681-694.
+
+Hutson, M. (2021) ‘Robo-writers: the rise and risks of language-generating AI’, Nature, 598(7882), pp. 556-559.
+
+McCormack, J. et al. (2019) ‘Autonomy, Authenticity, Authorship and Intention in computer generated art’, EvoMUSART 2019, pp 35-50.
+
+Ribeiro, M.T. et al. (2016) ‘"Why Should I Trust You?": Explaining the Predictions of Any Classifier’, Proceedings of the 22nd ACM SIGKDD International Conference, pp. 1135–1144.
+
+Russell, S. J. and Norvig, P. (2021) Artificial Intelligence: A Modern Approach. 4th edn. Harlow: Pearson Education.
+
+The Guardian (2024) 'AI prompts can boost writers' creativity but result in similar stories, study finds', The Guardian, 12 July.
+
+
+
+The Times (2025) 'Magazines caught using AI and fake writers for online stories', The Times, 30 June.
+
+U.S. Copyright Office (2023) 'Copyright Registration Guidance: Works Containing Material Generated by Artificial Intelligence', Federal Register, 88(52), pp. 16190–16195.
+
+Wang, L. et al. (2021) ‘Automatic text summarization in healthcare: A systematic review’, Journal of Biomedical Informatics, 113, p. 103606.
