@@ -23,15 +23,15 @@ My individual contributions were central to both collaborative discussions and o
 
 In the Airbnb Pricing project (Track 1), my experience as a team member was highly valuable. My initial proposal of the business question, "how does proximity to famous landmarks influence the rental prices of Airbnb?" was a significant contribution, providing early direction. During the EDA phase, I created key visualisations that supported our hypothesis, guiding our subsequent analysis. Later, I was responsible for refining the analytical report's wording, integrating my visualisations, and ensuring the inclusion of relevant academic sources. This collaborative and iterative process, where each member's contributions built upon the others, was highly effective.
 
-## Impact on Professional/Personal Development
+## 2.Impact on Professional/Personal Development
 This unit has profoundly impacted my development. Professionally, my critical evaluation skills in machine learning have sharpened. I now understand not only how to implement algorithms but also the nuanced trade-offs (e.g., interpretability vs. performance in classical ML) and the importance of meticulous data handling and hyperparameter tuning. Overcoming practical challenges, like memory limitations during SVM tuning, built my resilience and resourcefulness in problem-solving.
 
 Personally, the consistent engagement with ethical AI discussions has broadened my perspective. My emphasis on bias mitigation, accountability, and transparency reflects a deep commitment to responsible innovation. This ethical lens will undoubtedly guide my future work. My experience within the development team also honed my collaborative skills, particularly in navigating initial ambiguities and contributing effectively across project phases.
 
-## 2.Emotional Response and Analysis
+## 3.Emotional Response and Analysis
 Working on this project evoked a range of emotions. Initial excitement exploring new concepts often gave way to frustration when models didn't perform as expected or when I faced computational limitations, like memory errors during SVM tuning. However, overcoming these challenges, such as successfully implementing data subsetting, brought a strong sense of accomplishment. Moments of anxiety concerning the complexity of certain tasks or large datasets pushed me to be more meticulous in my planning and execution.
 
-## 3.Learning and Changed Actions
+## 4.Learning and Changed Actions
 My most significant learning stemmed from the iterative cycle of experimentation, observation, and critical analysis. For instance, hands-on manipulation of gradient descent parameters (Task 6 within the e-portfolio post) fundamentally shifted my understanding from theoretical to practical, revealing the direct impact of hyperparameter choices on model convergence. Similarly, the stark contrast between overall accuracy and per-class metrics in the imbalanced dataset (Task 8 within the e-portfolio post) permanently altered my approach to evaluating classification models, prioritizing Precision, Recall, and F1-score for minority classes.
 
 Evidence of developed skills and knowledge includes:
