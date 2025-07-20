@@ -96,7 +96,7 @@ In this task, I was asked to calculate various Jaccard coefficients using a prov
 
 ## Task 4 - Experimenting with Perceptron Models (Simple, AND Gate, Multi-Layer Perceptron)
 
-### Simple perceptron
+**Simple perceptron**
 
 Through this task, I was asked to download and manipulate different Python activities in Google Colab to explore the fundamental principles of a simple perceptron. The primary file explored was simple_perceptron.ipynb. In this file, I was able to achieve a variety of different outcomes, including:
 
