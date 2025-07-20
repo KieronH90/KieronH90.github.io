@@ -1,25 +1,24 @@
 # Machine Learning 
 ## Task 1 - Collaborative discussion 
 
-This discussion forum provided a valuable platform for exploring the intersection of Industry 4.0, Industry 5.0, and information system failures. My contributions — an initial post, a summary post, and two peer responses — allowed for comprehensive engagement with these critical topics.
+This discussion forum provided a valuable platform for exploring the intersection of Industry 4.0, Industry 5.0, and information system failures.
 
-My initial post focused on the Postmasters' Scandal, highlighting the Horizon IT system's flaws and the Post Office's institutional failures as a potent cautionary tale for the Fourth Industrial Revolution. I argued that "blind faith" in technology, despite clear inaccuracies, led to severe human, economic, and reputational costs, underscoring the urgent need for human oversight and ethical frameworks (Wallis, 2021).
+My initial post is shown below. I argued that "blind faith" in technology, despite clear inaccuracies, led to severe human, economic, and reputational costs, underscoring the urgent need for human oversight and ethical frameworks (Wallis, 2021).
 
 ![My logo](/assets/images/initialpost.png)  
 
-My peer's responses broadened this perspective. Responding to Naveed on the T-Mobile data breach, I emphasized foundational cybersecurity best practices (e.g., network segmentation) and introduced cyber resilience, noting that repeated breaches indicated deeper cultural issues.  I expanded on proactive resilience strategies (e.g., human training) and linked the incident to ethical AI deployment in healthcare, stressing transparency and oversight (Lim et al., 2023).
+In my response to Naveed below, I expanded on proactive resilience strategies (e.g., human training) and linked the incident to ethical AI deployment in healthcare, stressing transparency and oversight (Lim et al., 2023).
 
 ![My logo](/assets/images/naveedresponse.png)  
 ![My logo](/assets/images/markresponse.png)  
 
-My summary post synthesized these insights, reiterating the Postmasters' Scandal's lessons on ethical governance in technology. It integrated preventative measures from peer feedback (e.g., independent audits) with Industry 5.0 principles. A key learning was that technological advancement carries inherent risks, demanding vigilance, comprehensive risk management, and a strong ethical compass to ensure technology serves human well-being (Aldred, 2022).
+My summary post is shown below. A key learning point was that technological advancement carries inherent risks, demanding vigilance, comprehensive risk management, and a strong ethical compass to ensure technology serves human well-being (Aldred, 2022).
 
 ![My logo](/assets/images/summarypost.png)
 
 For future similar tasks, I would aim to:
 
 Select initial post incidents with more direct links to specific machine learning dataset challenges to explicitly address that learning outcome.
-
 Proactively draw stronger connections to data-related challenges in peer responses, even if the primary incident cause wasn't dataset-specific.
 
 
