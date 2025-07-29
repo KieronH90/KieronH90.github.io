@@ -6,7 +6,7 @@ categories: Research
 tags: [Research, professional practice]
 ---
 
-## Task 1. Ethics in Computing in the age of Generative AI 
+## Task 1 - Ethics in Computing in the age of Generative AI 
 
 The rapid emergence of generative AI from late 2022 has profoundly impacted technology and society, with Computer Science at its core. While AI itself isn't new, this generative iteration demands a re-evaluation what is normal and the urgent establishment of new rules in order to prevent misuse.
 Correa et al. (2023) rightly highlight the critical need to define guiding values for AI. Their observation that "a key challenge... lies in establishing a consensus on these values, given the diverse perspectives of various stakeholders worldwide and the abstraction of normative discourse" accurately reflects the current global AI governance landscape. Countries like the EU, US, and China are adopting varied approaches, underscoring the complexity of unified global frameworks (International Actuarial Association, 2025; Times of India, 2025).
