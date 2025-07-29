@@ -32,6 +32,7 @@ B. National and Regional Implementation with Contextual Adaptability: While glob
 In conclusion, the generative AI revolution offers an opportunity for a new paradigm in global governance. A collaborative, multi-tiered approach, starting with UN-facilitated consensus on high-level principles and cascading into context-specific national regulations, is the most suitable course of action. This framework would safeguard against risks, foster responsible innovation, and ensure that generative AI serves humanity's collective good, addressing the complex legal, social, and professional issues faced by computing professionals.
 
 *References*
+
 BCS, The Chartered Institute for IT. (2024) Living with AI and emerging technologies: Meeting ethical challenges through professional standards. Available at: https://www.bcs.org/articles-opinion-and-research/living-with-ai-and-emerging-technologies-meeting-ethical-challenges-through-professional-standards/ (Accessed: 29 July 2025).
 Correa, D., et al. (2023) ‘AI Governance: A Systematic Literature Review’, ResearchGate. Available at: https://www.researchgate.net/publication/382523579_AI_Governance_A_Systematic_Literature_Review (Accessed: 29 July 2025).
 Deckard. (2023) Generative AI and the Future of Work: A Reappraisal Working Paper No. 2023. Available at: https://oms-www.files.svdcdn.com/production/downloads/academic/2023-FoW-Working-Paper-Generative-AI-and-the-Future-of-Work-A-Reappraisal-combined.pdf (Accessed: 29 July 2025).
