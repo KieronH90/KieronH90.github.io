@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Research Methods and Professional Practise
+title: Research Methods and Professional Practice
 subtitle: A reflective journey
 categories: Research
-tags: [Research, professional prectise]
+tags: [Research, professional practice]
 ---
 
 ## Task 1. Ethics in Computing in the age of Generative AI 
