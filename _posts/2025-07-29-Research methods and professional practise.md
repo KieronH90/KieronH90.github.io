@@ -44,4 +44,5 @@ The Royal Society. (2024) The United Nations' role in international AI governanc
 
 In this task, we were asked to analyse an ACM ethics case, applying ACM/BCS codes, and discussing legal, social, and professional impacts. We chose Corazón's medical implant case, scrutinising its 'negligible risk' assessment of a vulnerability. Our analysis highlighted the critical need for integrity and patient safety in computing professionalism. Below is a screenshot of my initial post:
 
-!my_logo[assets/images/ResearchMethodsandProfessionalPractice/Collaborativediscussioninitialpost.png] 
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/Collaborativediscussioninitialpost.png)
+
