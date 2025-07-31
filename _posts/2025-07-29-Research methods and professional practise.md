@@ -8,7 +8,7 @@ tags: [Research, professional practice]
 
 ## Task 1 - Ethics in Computing in the age of Generative AI 
 
-The rapid emergence of generative AI from late 2022 has profoundly impacted technology and society, with Computer Science at its core. While AI itself isn't new, this generative iteration demands a re-evaluation what is normal and the urgent establishment of new rules in order to prevent misuse.
+The rapid emergence of generative AI from late 2022 has profoundly impacted technology and society, with Computer Science at its core. While AI itself isn't new, this generative iteration demands a re-evaluation of what is normal and the urgent establishment of new rules in order to prevent misuse.
 Correa et al. (2023) rightly highlight the critical need to define guiding values for AI. Their observation that "a key challenge... lies in establishing a consensus on these values, given the diverse perspectives of various stakeholders worldwide and the abstraction of normative discourse" accurately reflects the current global AI governance landscape. Countries like the EU, US, and China are adopting varied approaches, underscoring the complexity of unified global frameworks (International Actuarial Association, 2025; Times of India, 2025).
 
 Deckard (2023) notes how generative AI challenges traditional views of tasks requiring creativity and social intelligence, impacting employment and human-AI collaboration. Lee et al. (2025) further suggest that generative AI can reduce cognitive effort and foster over-reliance, potentially diminishing critical thinking. These developments deepen ethical and regulatory complexities as human and machine outputs increasingly blur.
@@ -39,3 +39,9 @@ Deckard. (2023) Generative AI and the Future of Work: A Reappraisal Working Pape
 Diya, A. (2023) Applying International Human Rights Principles for AI Governance. CIGI Online. Available at: https://www.cigionline.org/documents/3154/no.196_Diya_clNidFE.pdf (Accessed: 29 July 2025).
 Lee, K., Han, J., & Lee, S. (2025) The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers. Microsoft. Available at: https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf (Accessed: 29 July 2025).
 The Royal Society. (2024) The United Nations' role in international AI governance. Available at: https://royalsociety.org/-/media/policy/publications/2024/un-role-in-international-ai-governance.pdf (Accessed: 29 July 2025).
+
+## Task 2 - Collaborative Learning Discussion
+
+In this task, we were asked to analyse an ACM ethics case, applying ACM/BCS codes, and discussing legal, social, and professional impacts. We chose Corazón's medical implant case, scrutinising its 'negligible risk' assessment of a vulnerability. Our analysis highlighted the critical need for integrity and patient safety in computing professionalism. Below is a screenshot of my initial post:
+
+!my_logo[assets/images/ResearchMethodsandProfessionalPractice/Collaborativediscussioninitialpost.png] 
