@@ -46,3 +46,19 @@ In this task, we were asked to analyse an ACM ethics case, applying ACM/BCS code
 
 ![My logo](/assets/images/ResearchMethodsandProfessionalPractice/Collaborativediscussioninitialpost.png)
 
+Next, we were required to respond to 3 of the posts that had been written by our peers. Below are each of the posts, followed by my response:
+
+*Julius*
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/CollaborativediscussionJulispost.png)
+
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/CollaborativediscussionJulisresponse.png)
+
+*Shraddha*
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/CollaborativediscussionShraddhapost.png)
+
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/CollaborativediscussionShraddharesponse.png)
+
+*Valentina*
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/CollaborativediscussionValentinapost.png)
+
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/CollaborativediscussionValentinaresponse.png)
