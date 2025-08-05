@@ -62,3 +62,11 @@ Next, we were required to respond to 3 of the posts that had been written by our
 ![My logo](/assets/images/ResearchMethodsandProfessionalPractice/CollaborativediscussionValentinapost.png)
 
 ![My logo](/assets/images/ResearchMethodsandProfessionalPractice/CollaborativediscussionValentinaresponse.png)
+
+## Task 3 - Literature Review Outline
+
+In this task, we were asked to create an outline for the approach we plan to take when writing our literature review later in the module. The plan and structure that I formulated is as follows:
+
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/literatureoverviewpage1.png)
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/literatureoverviewpage2.png)
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/literatureoverviewpage3.png)
