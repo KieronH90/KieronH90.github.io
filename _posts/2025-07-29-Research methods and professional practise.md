@@ -111,7 +111,7 @@ FTC (2019) FTC Imposes $5 Billion Penalty and Sweeping New Privacy Restrictions 
 
 MRS (n.d.) Sugging & Frugging. Available at: https://www.mrs.org.uk/research/sugging-frugging (Accessed: 18 October 2025).
 
-## Task 4 -Inappropriate Use of Surveys
+## Task 5 -Critical analysis of Surveys
 
 For this task, I was asked to critically analyse a questionnaire of my choice. I selected this health questionnaire from the Oxford University Hospital NHS Trust (a snippet is shown below)
 
@@ -150,3 +150,52 @@ References
 Mohan, R., D'Souza, R. and Abd-Elsayed, A. (2021) 'Functional Capacity Evaluation in Preoperative Assessment', Current Pain and Headache Reports, 25(9), p. 58.
 
 Rattray, J. and Jones, M.C. (2007) 'Essential elements of questionnaire design and development', Journal of Clinical Nursing, 16(2), pp. 234-243.
+
+## Task 6 - Hypothesis testing worksheet
+
+During this task, I was asked to work through a series of instructions, the output of which are shown below:
+
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/Unit71.png)
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/Unit72.png)
+
+Next I was provided with a new dataset, and asked to analyse this new data using what I had learned. The output from said dataset is below:
+
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/Unit73.png)
+
+"p2" Value
+Value: 0.43649248
+
+Interpretation: This value does not relate to the t-test for means. Instead, p2 is the two-tailed p-value for the F-Test for Variances.
+
+Analysis: This value is used to decide which t-test to run (Equal vs. Unequal variances). Since 0.436>0.05, it confirms there is no significant difference between the variances of the two groups. This validates the choice to use the "t-Test: Two-Sample Assuming Equal Variances".
+
+I cannot use p2 to determine if the mean incomes are different.
+
+Difference in Means
+Value: 8.68
+
+Interpretation: This is the straightforward arithmetic difference between the sample means of Variable 1 (Males) and Variable 2 (Females). On average, the males in the sample earned 8.68 units more than the females (52.91−44.23=8.68).
+
+Significance: This value tells us the size of the effect, but not if it's statistically significant.
+
+
+Combined Interpretation
+To get the full picture, we must combine the "Difference in Means" with the correct p-value from the t-test:
+
+The average income for males in the sample was 8.68 units higher than for females.
+
+The one-tailed p-value for this difference is 0.0007.
+
+Conclusion: Because p<0.05, the observed difference of 8.68 is statistically significant. We can conclude that the population mean income for males is greater than that of females.
+
+Next, I was asked to perform statistical analysis on the data below:
+
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/Unit74.png)
+
+The P-value Method
+My Result: The p-value is P(T<=t) two-tail = 0.007545995.
+
+Analysis: This p-value (p=0.0075) is the probability of observing a difference this large (or larger) between the two agents if there were actually no difference.
+
+Decision: Since 0.0075<0.05, my result is statistically significant. We reject the null hypothesis (H0).
+
