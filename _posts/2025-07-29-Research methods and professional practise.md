@@ -199,3 +199,50 @@ Analysis: This p-value (p=0.0075) is the probability of observing a difference t
 
 Decision: Since 0.0075<0.05, my result is statistically significant. We reject the null hypothesis (H0).
 
+After this I was asked to discuss the implications of changing this 2 tailed test to a 1 tailed test. 
+
+1. My Hypotheses
+First, I needed to define my hypotheses. The question asks if Filter Agent 1 was the more effective. Since "more effective" means it results in less impurity, I am testing if the population mean for Agent 1 is lower than for Agent 2.
+
+Null Hypothesis (H0): The mean impurity for Agent 1 is not lower than for Agent 2 (μ1≥μ2).
+
+Alternative Hypothesis (H1): The mean impurity for Agent 1 is lower than for Agent 2 (μ1<μ2).
+
+2. The Relevant P-value
+For this one-tailed test, I looked at the one-tailed p-value in the Excel output:
+
+P(T<=t) one-tail = 0.003772997 (which I'll round to p=0.0038)
+
+3. My Conclusion
+Using my standard significance level of α=0.05, I compared my p-value to this alpha.
+
+Since p=0.0038 is less than α=0.05, my results are statistically significant.
+
+Therefore, I reject the null hypothesis (H0). Based on this analysis, I can conclude that there is strong evidence that Filter Agent 1 is the more effective filtration agent, as it results in a significantly lower population mean impurity level than Filter Agent 2.
+
+## Task 7 - Case Study: Accuracy of information
+
+In this task I was asked to discuss an ethical dilemma, relating to a statistical programmer named Abi whom works for a fictional cereal named Whizz. She has detected that some company claims appear not to be true. Below is my initial post on the subject.
+
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/Collaborativediscussion2initialpost.png)
+
+Next are responses from 3 of my peers:
+
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/Collaborativediscussion2Valentinaresponse.png)
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/Collaborativediscussion2Shashankresponse.png)
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/Collaborativediscussion2Guilhermeresponse.png)
+
+And 3 posts written by my peers and my responses:
+
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/Collaborativediscussion2initialpostJulius.png)
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/Collaborativediscussion2initialpostJuliusresponse.png)
+
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/Collaborativediscussion2initialpostMd.png)
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/Collaborativediscussion2initialpostMdresponse.png)
+
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/Collaborativediscussion2initialpostValentina.png)
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/Collaborativediscussion2initialpostValentinaresponse.png)
+
+Finally, here is my summary post:
+
+![My logo](/assets/images/ResearchMethodsandProfessionalPractice/Collaborativediscussion2summarypost.png)
