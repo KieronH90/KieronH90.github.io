@@ -396,7 +396,28 @@ Enhancing Visual Engagement: The feedback that my slides were "visually simple" 
 Action: For future presentations, I will incorporate "data-driven infographics" as suggested. For example, my "Promise vs. Reality" slide would be far more effective with a chart showing actual EdTech adoption rates or student attainment data, rather than just text.
 
 Updating Sources: The point on "Use of Sources" is a straightforward and excellent recommendation.
-Action: My foundational literature is strong, but I will now actively search for the very latest (2024-2025) UK government AI/EdTech policy documents and industry adoption reports to ensure my project has maximum "currency."
 
 Conclusion
 Overall, this feedback provides the perfect balance of validation and challenge. I feel confident in my project's core structure and research gap. My clear priorities for the next stage are to sharpen my technical critique, improve my data visualisation skills, and update my sources to be as current as possible.
+
+## Reflections 
+
+Reflection on Statistical Analysis Skills
+This module transformed my skills from simple calculation to critical application. Initially, I focused on the "how" of running t-tests (Task 6). However, Task 5 (Questionnaire Analysis) proved that flawed data collection ("garbage in") makes any statistical analysis worthless. Most importantly, Task 7 (the "Abi" ethics case) connected my technical skills to professional integrity, showing how selective reporting ("p-hacking") is a profound ethical failure, not just a statistical choice. I've learned that my primary skill isn't just processing data, but questioning its validity and reporting it with honesty.
+
+Reflection on the Research Methods Process
+I now see research as an iterative, ethically-grounded cycle, not a linear path. My Literature Review plan (Task 3) and its final "Distinction" feedback validated the power of a strong "conceptual framework" for building a nuanced argument. Conversely, the tasks on survey misuse (Task 4) and ethical dilemmas (Task 7) proved that methodological choices are never neutral and have profound social and legal impacts. My Research Proposal feedback perfectly captured this cycle: my Literature Review's conclusions (the gaps) became my proposal's starting point, and my proposal's weaknesses now feed back into my next round of research.
+
+Impact on Personal/Professional Experience
+This module has directly shaped my professional action plan and SWOT analysis.
+Strengths: My feedback confirms my key strengths are high-level critical analysis and strong ethical reasoning (validated in my Literature Review and ethics discussions).
+Weaknesses: My Research Proposal feedback correctly identified that my critique of AI bias was "too general" and my visual presentation "too simple."
+Action Plan: I will address these weaknesses directly in my dissertation.
+
+I will research and integrate specific "fairness metrics" to add technical depth to my critique.
+I will apply my new PowerBI skills (Task 9) to create "data-driven infographics" instead of basic slides.
+I will update my sources to ensure maximum "currency."
+
+This module has provided the bridge from being technically proficient to becoming a critically aware and ethically-grounded researcher.
+Action: My foundational literature is strong, but I will now actively search for the very latest (2024-2025) UK government AI/EdTech policy documents and industry adoption reports to ensure my project has maximum "currency."
+
