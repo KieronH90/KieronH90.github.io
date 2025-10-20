@@ -400,7 +400,7 @@ Updating Sources: The point on "Use of Sources" is a straightforward and excelle
 Conclusion
 Overall, this feedback provides the perfect balance of validation and challenge. I feel confident in my project's core structure and research gap. My clear priorities for the next stage are to sharpen my technical critique, improve my data visualisation skills, and update my sources to be as current as possible.
 
-## Reflections 
+## Final Thoughts
 
 Reflection on Statistical Analysis Skills
 
